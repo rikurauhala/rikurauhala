@@ -1,7 +1,7 @@
 ```console
 rikurauhala@github:~$ fetch
                   ...''''''...                        rikurauhala@github
-             .;cdkOKKXXXXXXK0Oxoc,.                   -------------------
+             .;cdkOKKXXXXXXK0Oxoc,.                   ------------------
           'lxKXNNNNNNNNNNNNNNNNNNX0xc'                Uptime: 25 years
        .:kKNNNNNNNNNNNNNNNNNNNNNNNNNNKx;.             Location: Helsinki
      .:ONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXk;            Studying: Computer science
