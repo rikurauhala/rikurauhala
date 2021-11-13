@@ -13,7 +13,7 @@ rikurauhala@github:~$ fetch
 .xNNNNNN0;                            :KNNNNNNd.      WM: i3
 'ONNNNNNO'                            ,0NNNNNNk.      Editor: VSCode
 'ONNNNNN0,                            ;KNNNNNNk.      Website: <to be added>
-.xNNNNNNXo.                          .dNNNNNNNd.      Email: <to be added>
+.xNNNNNNXo.                          .dNNNNNNNd.      
  cXNNNNNNKc.                        .lKNNNNNNK:       
  .xNNNNNNNXx;.                    .;kXNNNNNNNd.       
   ,ONNKdld0XXOdc;,.          .,:lx0XNNNNNNNNk'        
