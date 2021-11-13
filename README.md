@@ -12,7 +12,7 @@ rikurauhala@github:~$ fetch
  lXNNNNNNx.                          'kNNNNNNKc       Want to learn: JavaScript, .NET, Android
 .xNNNNNN0;                            :KNNNNNNd.      WM: i3
 'ONNNNNNO'                            ,0NNNNNNk.      Editor: VSCode
-'ONNNNNN0,                            ;KNNNNNNk.      Website: <to be added>
+'ONNNNNN0,                            ;KNNNNNNk.      Home page: rauhala.io
 .xNNNNNNXo.                          .dNNNNNNNd.      
  cXNNNNNNKc.                        .lKNNNNNNK:       
  .xNNNNNNNXx;.                    .;kXNNNNNNNd.       
