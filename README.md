@@ -2,18 +2,18 @@
 rikurauhala@github:~$ fetch
                   ...''''''...                        rikurauhala@github
              .;cdkOKKXXXXXXK0Oxoc,.                   ------------------
-          'lxKXNNNNNNNNNNNNNNNNNNX0xc'                Uptime: 25 years
-       .:kKNNNNNNNNNNNNNNNNNNNNNNNNNNKx;.             Location: Helsinki
-     .:ONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXk;            Studying: Computer science
-    'xXNNNXd:00NKNNNNXXXXXXNNNNKkoccxXNNNXd.          Speaks: suomi (native), English (fluent), 
-   ;ONNNNNO'    ':c;,'''''',:c;.    ,0NNNNNO,                 svenska (bad), 한국어 (learning)
-  ;0NNNNNNO.                        'ONNNNNNO,        Languages: Python, Java, C++
- .kNNNNNNNx.                        .kNNNNNNNx.       Skills: Linux, Git, SQL, Docker, HTML, CSS etc.
- lXNNNNNNx.                          'kNNNNNNKc       Want to learn: JavaScript, .NET, Android
-.xNNNNNN0;                            :KNNNNNNd.      WM: i3
-'ONNNNNNO'                            ,0NNNNNNk.      Editor: VSCode
-'ONNNNNN0,                            ;KNNNNNNk.      Home page: rauhala.io
-.xNNNNNNXo.                          .dNNNNNNNd.      
+          'lxKXNNNNNNNNNNNNNNNNNNX0xc'                Name: Riku
+       .:kKNNNNNNNNNNNNNNNNNNNNNNNNNNKx;.             Uptime: 25 years
+     .:ONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXk;            Location: Helsinki
+    'xXNNNXd:00NKNNNNXXXXXXNNNNKkoccxXNNNXd.          Studying: Computer science
+   ;ONNNNNO'    ':c;,'''''',:c;.    ,0NNNNNO,         Speaks: suomi (native), English (fluent),
+  ;0NNNNNNO.                        'ONNNNNNO,                svenska (bad), 한국어 (learning)
+ .kNNNNNNNx.                        .kNNNNNNNx.       Languages: Python, Java, C++
+ lXNNNNNNx.                          'kNNNNNNKc       Skills: Linux, Git, SQL, Docker, HTML, CSS etc.
+.xNNNNNN0;                            :KNNNNNNd.      Want to learn: JavaScript, .NET, Android
+'ONNNNNNO'                            ,0NNNNNNk.      WM: i3
+'ONNNNNN0,                            ;KNNNNNNk.      Editor: VSCode
+.xNNNNNNXo.                          .dNNNNNNNd.      Home page: rauhala.io
  cXNNNNNNKc.                        .lKNNNNNNK:       
  .xNNNNNNNXx;.                    .;kXNNNNNNNd.       
   ,ONNKdld0XXOdc;,.          .,:lx0XNNNNNNNNk'        
