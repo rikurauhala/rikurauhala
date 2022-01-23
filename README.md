@@ -6,7 +6,7 @@ rikurauhala@github:~$ fetch
        .:kKNNNNNNNNNNNNNNNNNNNNNNNNNNKx;.             Age: 25 years
      .:ONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXk;            Location: Helsinki
     'xXNNNXd:00NKNNNNXXXXXXNNNNKkoccxXNNNXd.          Studying: Computer science
-   ;ONNNNNO'    ':c;,'''''',:c;.    ,0NNNNNO,         Speaks: suomi (native), English (fluent)
+   ;ONNNNNO'    ':c;,'''''',:c;.    ,0NNNNNO,         Speaks: Finnish, English
   ;0NNNNNNO.                        'ONNNNNNO,        Languages: Python, Java, C++
  .kNNNNNNNx.                        .kNNNNNNNx.       Skills: Linux, Git, SQL, Docker, HTML, CSS etc.
  lXNNNNNNx.                          'kNNNNNNKc       Want to learn: JavaScript, .NET, Android
