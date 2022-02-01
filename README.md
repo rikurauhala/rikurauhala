@@ -3,7 +3,7 @@ rikurauhala@github:~$ fetch
                   ...''''''...                        rikurauhala@github
              .;cdkOKKXXXXXXK0Oxoc,.                   ------------------
           'lxKXNNNNNNNNNNNNNNNNNNX0xc'                Name: Riku
-       .:kKNNNNNNNNNNNNNNNNNNNNNNNNNNKx;.             Age: 25 years
+       .:kKNNNNNNNNNNNNNNNNNNNNNNNNNNKx;.             Age: 26 years
      .:ONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXk;            Location: Helsinki
     'xXNNNXd:00NKNNNNXXXXXXNNNNKkoccxXNNNXd.          Studying: Computer science
    ;ONNNNNO'    ':c;,'''''',:c;.    ,0NNNNNO,         Speaks: Finnish, English
