@@ -12,10 +12,6 @@
       Please visit my home page for more information.
     </p>
     <p>
-      <a href="https://github.com/rikurauhala?tab=repositories">Code</a>
-      <span>
-        ·
-      </span>
       <a href="https://www.rauhala.io">Portfolio</a>
       <span>
         ·
