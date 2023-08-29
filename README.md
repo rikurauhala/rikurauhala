@@ -12,7 +12,7 @@
       Visit my home page for more information.
     </p>
     <p>
-      <a href="https://www.rauhala.io">Portfolio</a>
+      <a href="https://rauhala.io">Portfolio</a>
       <span>
         ·
       </span>
