@@ -14,7 +14,7 @@
     <p>
       <a href="https://rauhala.io">Portfolio</a>
       <span>
-        ·
+        •
       </span>
       <a href="https://www.linkedin.com/in/rikurauhala">Resume</a>
     </p>
