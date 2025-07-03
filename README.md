@@ -6,7 +6,7 @@
     <p>
       My name is Riku. I am a software developer from Finland.
       <br>
-      Currently studying computer science at the University of Helsinki.
+      Currently working as a full-stack developer and writing my master's thesis.
     </p>
     <p>
       Visit my home page for more information.
