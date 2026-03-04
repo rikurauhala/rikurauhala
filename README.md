@@ -12,11 +12,11 @@
       Visit my home page for more information.
     </p>
     <p>
-      <a href="https://rauhala.io">Portfolio</a>
+      <a href="https://rauhala.io">Home</a>
       <span>
         •
       </span>
-      <a href="https://www.linkedin.com/in/rikurauhala">Resume</a>
+      <a href="https://www.linkedin.com/in/rikurauhala">LinkedIn</a>
     </p>
   </samp>
 </div>
